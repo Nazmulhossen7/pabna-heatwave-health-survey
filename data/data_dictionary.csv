@@ -1,0 +1,29 @@
+﻿variable,description
+respondent_id,Non-identifying sequential respondent ID
+sex,Sex
+age_in_year,Age In Year
+height_feet,Height Feet
+weight_in_kg,Weight In Kg
+level_of_education,Level Of Education
+marital_status,Marital Status
+occupation,Occupation
+socio_economic_status,Socio Economic Status
+how_many_time_do_you_work_at_your_work_place_in_hours,How Many Time Do You Work At Your Work Place In Hours
+do_you_have_any_health_changes_for_heatwaves_than_from_normal_weather,Do You Have Any Health Changes For Heatwaves Than From Normal Weather
+have_you_experienced_any_physical_health_issues_during_heatwaves,Have You Experienced Any Physical Health Issues During Heatwaves
+physical_health_issues_you_have_experienced_during_heatwaves,Physical Health Issues You Have Experienced During Heatwaves
+have_you_noticed_any_changes_in_your_mental_health_during_heatwaves,Have You Noticed Any Changes In Your Mental Health During Heatwaves
+mental_health_issues_you_have_experienced_during_heatwaves,Mental Health Issues You Have Experienced During Heatwaves
+did_the_heatwaves_impact_your_sleeping_patterns,Did The Heatwaves Impact Your Sleeping Patterns
+do_you_experience_changes_in_your_eating_habits_during_heatwaves,Do You Experience Changes In Your Eating Habits During Heatwaves
+types_of_food_consume_more_frequently,Types Of Food Consume More Frequently
+how_much_water_you_consume_during_heatwaves,How Much Water You Consume During Heatwaves
+do_you_prioritize_hydration_and_consume_more_fluids_during_heatwaves,Do You Prioritize Hydration And Consume More Fluids During Heatwaves
+how_does_the_heatwave_affect_your_work_performance,How Does The Heatwave Affect Your Work Performance
+have_you_observed_a_decrease_in_your_work_productivity_during_heatwaves,Have You Observed A Decrease In Your Work Productivity During Heatwaves
+do_you_receive_any_support_or_accommodations_from_your_employer_to_cope_with_heatwaves_and_maintain_work_performance,Do You Receive Any Support Or Accommodations From Your Employer To Cope With Heatwaves And Maintain Work Performance
+did_heatwaves_effect_your_monthly_income,Did Heatwaves Effect Your Monthly Income
+do_you_face_any_financial_challenges_during_heatwaves,Do You Face Any Financial Challenges During Heatwaves
+are_you_financially_prepared_to_handle_unexpected_expenses_related_to_heatwaves,Are You Financially Prepared To Handle Unexpected Expenses Related To Heatwaves
+did_you_have_access_to_colling_facilities,Did You Have Access To Colling Facilities
+if_yes_which_coolling_facilities_you_have_used,If Yes Which Coolling Facilities You Have Used
