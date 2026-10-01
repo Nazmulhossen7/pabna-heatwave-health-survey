@@ -1,0 +1,43 @@
+variable,category,n,percent
+Mental health issue combination,"Anxiety, Lack of focus",42,14.0
+Mental health issue combination,"Increased stress, Anxiety",27,9.0
+Mental health issue combination,"Increased stress, Anxiety, Lack of focus",24,8.0
+Mental health issue combination,Lack of focus,23,7.67
+Mental health issue combination,"Anxiety, Depression",20,6.67
+Mental health issue combination,"Increased stress, Lack of focus",17,5.67
+Mental health issue combination,Anxiety,14,4.67
+Mental health issue combination,"Depression, Lack of focus",14,4.67
+Mental health issue combination,No change,10,3.33
+Mental health issue combination,"Anxiety, Depression, Lack of focus",8,2.67
+Mental health issue combination,Depression,8,2.67
+Mental health issue combination,Increased stress,8,2.67
+Mental health issue combination,"Increased stress, Depression, Lack of focus",8,2.67
+Mental health issue combination,"Decreased motivation, Anxiety",7,2.33
+Mental health issue combination,"Increased stress, Decreased motivation, Anxiety",7,2.33
+Mental health issue combination,"Decreased motivation, Lack of focus",6,2.0
+Mental health issue combination,"Increased stress, Anxiety, Depression",6,2.0
+Mental health issue combination,"Increased stress, Decreased motivation",6,2.0
+Mental health issue combination,"Decreased motivation, Anxiety, Lack of focus",5,1.67
+Mental health issue combination,"Increased stress, Decreased motivation, Lack of focus",4,1.33
+Mental health issue combination,"Decreased motivation, Anxiety, Depression",3,1.0
+Mental health issue combination,"Increased stress, Anxiety, Depression, Lack of focus",3,1.0
+Mental health issue combination,"Increased stress, Lack of focus, Uncomfortable",3,1.0
+Mental health issue combination,Missing,3,1.0
+Mental health issue combination,Normal,3,1.0
+Mental health issue combination,"Decreased motivation, Anxiety, Depression, Lack of focus",2,0.67
+Mental health issue combination,"Increased stress, Depression",2,0.67
+Mental health issue combination,No,2,0.67
+Mental health issue combination,none,2,0.67
+Mental health issue combination,"Anxiety, Depression, Migraine",1,0.33
+Mental health issue combination,As usual,1,0.33
+Mental health issue combination,"Decreased motivation, Anger",1,0.33
+Mental health issue combination,"Decreased motivation, Anxiety, Anger",1,0.33
+Mental health issue combination,"Decreased motivation, Depression, Lack of focus",1,0.33
+Mental health issue combination,"Increased stress, Anxiety, Lack of focus, Uncomfortable",1,0.33
+Mental health issue combination,"Increased stress, Decreased motivation, Anxiety, Depression, Lack of focus",1,0.33
+Mental health issue combination,"Increased stress, Decreased motivation, Anxiety, Lack of focus",1,0.33
+Mental health issue combination,"Increased stress, Decreased motivation, Depression",1,0.33
+Mental health issue combination,"Increased stress, Uncomfortable",1,0.33
+Mental health issue combination,None,1,0.33
+Mental health issue combination,Remaining same,1,0.33
+Mental health issue combination,Uncomfortable,1,0.33

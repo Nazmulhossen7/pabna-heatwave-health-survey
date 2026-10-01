@@ -1,0 +1,63 @@
+variable,category,n,percent
+Physical health issue combination,Dehydration,59,19.67
+Physical health issue combination,"Dehydration, Skin problems",52,17.33
+Physical health issue combination,"Dehydration, Fever",33,11.0
+Physical health issue combination,"Dehydration, Fever, Skin problems",19,6.33
+Physical health issue combination,"Dehydration, Heatstroke",15,5.0
+Physical health issue combination,"Heatstroke, Fever",10,3.33
+Physical health issue combination,"Dehydration, headache",9,3.0
+Physical health issue combination,"Dehydration, Skin problems, headache",7,2.33
+Physical health issue combination,"Dehydration, Heatstroke, Fever",6,2.0
+Physical health issue combination,"Dehydration, Heatstroke, Skin problems",5,1.67
+Physical health issue combination,"Dehydration, Vomit, Skin problems",5,1.67
+Physical health issue combination,Fever,4,1.33
+Physical health issue combination,"Fever, Skin problems",4,1.33
+Physical health issue combination,No change,4,1.33
+Physical health issue combination,Skin problems,4,1.33
+Physical health issue combination,"Dehydration, Fever, Headache",3,1.0
+Physical health issue combination,"Dehydration, Fever, Vomit",3,1.0
+Physical health issue combination,Missing,3,1.0
+Physical health issue combination,none,3,1.0
+Physical health issue combination,"Dehydration, Asthma",2,0.67
+Physical health issue combination,"Dehydration, Headache",2,0.67
+Physical health issue combination,"Dehydration, Heatstroke, Fever, Vomit, Skin problems",2,0.67
+Physical health issue combination,"Dehydration, Heatstroke, Headache",2,0.67
+Physical health issue combination,"Dehydration, Heatstroke, Vomit, Skin problems",2,0.67
+Physical health issue combination,"Heatstroke, Fever, Skin problems",2,0.67
+Physical health issue combination,No,2,0.67
+Physical health issue combination,"Skin problems, headache",2,0.67
+Physical health issue combination,headache,2,0.67
+Physical health issue combination,Blood pressur,1,0.33
+Physical health issue combination,"Dehydration, As usual",1,0.33
+Physical health issue combination,"Dehydration, Cough",1,0.33
+Physical health issue combination,"Dehydration, Coughing",1,0.33
+Physical health issue combination,"Dehydration, Fever, Asmah",1,0.33
+Physical health issue combination,"Dehydration, Fever, Cough",1,0.33
+Physical health issue combination,"Dehydration, Fever, Heart problem",1,0.33
+Physical health issue combination,"Dehydration, Fever, Skin problems, Muscle cramps",1,0.33
+Physical health issue combination,"Dehydration, Fever, Skin problems, pain head",1,0.33
+Physical health issue combination,"Dehydration, Fever, Vomit, Skin problems",1,0.33
+Physical health issue combination,"Dehydration, Fever, Vomit, pain Head",1,0.33
+Physical health issue combination,"Dehydration, Head pain",1,0.33
+Physical health issue combination,"Dehydration, Heatstroke, Cough",1,0.33
+Physical health issue combination,"Dehydration, Heatstroke, Fever, High pressure",1,0.33
+Physical health issue combination,"Dehydration, Heatstroke, Fever, Muscle cramps",1,0.33
+Physical health issue combination,"Dehydration, Heatstroke, Fever, Skin problems",1,0.33
+Physical health issue combination,"Dehydration, Heatstroke, Fever, pain head",1,0.33
+Physical health issue combination,"Dehydration, Heatstroke, Skin problems, headache",1,0.33
+Physical health issue combination,"Dehydration, Heatstroke, Vomit",1,0.33
+Physical health issue combination,"Dehydration, Heatstroke, Vomit, headache",1,0.33
+Physical health issue combination,"Dehydration, Pain head",1,0.33
+Physical health issue combination,"Dehydration, Skin problems, Asthma",1,0.33
+Physical health issue combination,"Dehydration, Vomit",1,0.33
+Physical health issue combination,"Dehydration, Vomit, Skin problems, headache",1,0.33
+Physical health issue combination,"Dehydration, headace",1,0.33
+Physical health issue combination,"Dehydration, unstable",1,0.33
+Physical health issue combination,"Fever, Headache",1,0.33
+Physical health issue combination,"Fever, Vomit, Skin problems",1,0.33
+Physical health issue combination,Headache,1,0.33
+Physical health issue combination,Heatstroke,1,0.33
+Physical health issue combination,"Heatstroke, Fever, High pressure",1,0.33
+Physical health issue combination,"Heatstroke, Skin problems",1,0.33
+Physical health issue combination,No problem,1,0.33
+Physical health issue combination,"Vomit, Skin problems",1,0.33

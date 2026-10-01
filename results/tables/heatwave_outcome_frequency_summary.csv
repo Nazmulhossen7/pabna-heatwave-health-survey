@@ -1,0 +1,28 @@
+variable,category,n,percent
+Health changes during heatwaves,No,10,3.33
+Health changes during heatwaves,Yes,290,96.67
+Physical health issues,No,12,4.0
+Physical health issues,Yes,288,96.0
+Mental health changes,No,24,8.0
+Mental health changes,Yes,276,92.0
+Sleep pattern impacted,No,98,32.67
+Sleep pattern impacted,Yes,202,67.33
+Eating habit change,Missing,3,1.0
+Eating habit change,"No, my eating habits remain the same",128,42.67
+Eating habit change,"Yes, I eat less",147,49.0
+Eating habit change,"Yes, I eat more",22,7.33
+Work productivity decrease,Missing,2,0.67
+Work productivity decrease,"No, my productivity remains the same",126,42.0
+Work productivity decrease,"Yes, my productivity decreases",172,57.33
+Monthly income effect,I earn less,115,38.33
+Monthly income effect,I earn more,21,7.0
+Monthly income effect,Remaining same,164,54.67
+Financial challenges,Missing,3,1.0
+Financial challenges,"No, no significant financial challenges",21,7.0
+Financial challenges,"Yes, additional costs for personal protective equipment suitable for heat",13,4.33
+Financial challenges,"Yes, increased utility bills (e.g., air conditioning,fan)",263,87.67
+Financial preparedness,"No, I would struggle to handle unexpected expenses",241,80.33
+Financial preparedness,"Yes, I have savings or a financial safety net",59,19.67
+Access to cooling facilities,Missing,1,0.33
+Access to cooling facilities,No,9,3.0
+Access to cooling facilities,Yes,290,96.67

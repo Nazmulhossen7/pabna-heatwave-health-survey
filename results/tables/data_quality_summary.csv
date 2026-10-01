@@ -1,0 +1,8 @@
+check,count
+Total rows,300
+Duplicate respondent_id,0
+Missing values (all cells),55
+Age values flagged,3
+Height values flagged,2
+Weight values flagged,2
+Work-hour values flagged,0

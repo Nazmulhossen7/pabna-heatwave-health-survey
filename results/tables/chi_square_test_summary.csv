@@ -1,0 +1,4 @@
+test,n,rows,columns,pearson_chi_square,df,pearson_p_value,likelihood_ratio_chi_square,likelihood_ratio_df,likelihood_ratio_p_value,cramers_v,cells_expected_below_5,percent_cells_expected_below_5,minimum_expected_count,monte_carlo_p_value_if_sparse,interpretation
+Working time group vs monthly-income effect,294,4,3,26.7828,6,0.0002,28.2483,6,0.0001,0.2134,2,16.6667,3.9286,0.0001,Evidence of association at alpha = 0.05
+Eating habit vs monthly-income effect,297,3,3,12.8267,4,0.0122,10.6659,4,0.0306,0.1469,1,11.1111,1.5556,0.0111,Evidence of association at alpha = 0.05
+Cooling access vs physical-health issue,299,2,2,0.388,1,0.5334,0.7489,1,0.3868,0.036,1,25.0,0.3612,1.0,No evidence of association at alpha = 0.05

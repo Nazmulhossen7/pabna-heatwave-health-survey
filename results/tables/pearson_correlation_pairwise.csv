@@ -1,0 +1,11 @@
+variable_1,variable_2,n,r,p_value,significance,strength
+BMI,Age,296,0.021,0.7156,Not significant,Negligible
+BMI,Height,296,-0.064,0.2687,Not significant,Negligible
+BMI,Weight,296,0.865,7.708e-90,p < .001,Very strong
+BMI,Working_Time,290,-0.011,0.8477,Not significant,Negligible
+Age,Height,298,-0.06,0.2979,Not significant,Negligible
+Age,Weight,298,-0.01,0.8575,Not significant,Negligible
+Age,Working_Time,294,0.159,0.00628,p < .01,Weak
+Height,Weight,296,0.439,2.115e-15,p < .001,Moderate
+Height,Working_Time,292,0.019,0.745,Not significant,Negligible
+Weight,Working_Time,292,-0.007,0.9093,Not significant,Negligible

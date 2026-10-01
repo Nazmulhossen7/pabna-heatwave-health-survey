@@ -1,0 +1,2 @@
+groups,chi_square,df,p_value,interpretation
+10,6.485079956022801,8,0.5930630530544392,No evidence of lack of fit at alpha = 0.05
